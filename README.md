@@ -1,4 +1,4 @@
-# Organizador-de-Declara-o-de-Imposto-de-Renda
+# Organizador de declaracao de imposto de Renda
 Análise Detalhada do Projeto Excel: app.xlsx
 
 Introdução
